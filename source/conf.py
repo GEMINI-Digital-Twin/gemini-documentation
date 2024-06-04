@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.join(gemini_root_dir, 'gemini-framework', 'src'))
 
 project = 'GEMINI Geothermal Digital Twin'
 copyright = '2024, TNO'
-author = 'Ryvo Octaviano'
+author = 'Ryvo Octaviano, Demetris Palochis, Leila Hashemi, Jonah Poort, Pejman Shoeibi Omrani'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
