@@ -52,3 +52,64 @@ Setup Database Connection
 
 Create Dashboard
 ---------------------------
+* Click "New" button
+* Click "Add visualization" button
+
+.. image:: images/create_dashboard_1.jpg
+    :width: 100%
+
+* Select data source influxdb
+* if you dont see any data source, please follow section Setup Database Connection
+
+.. image:: images/create_dashboard_2.jpg
+    :width: 100%
+
+* Select Time Series. There are several chart style e.g. bar chart, gauge, pie chart, etc.
+* Fill Title
+* In box A, fill the query code. It is based on FluxQL syntax. See the example below.
+.. code-block::
+
+    from(bucket: "gemini-project")
+    |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
+    |> filter(fn: (r) => r["_measurement"] == "HAL")
+    |> filter(fn: (r) => r["asset_name"] == "esp_e74b")
+    |> filter(fn: (r) => r["_field"] == "esp_inlet_pressure.measured")
+    |> aggregateWindow(every: v.windowPeriod, fn: mean, createEmpty: false)
+    |> yield(name: "mean")
+
+* Parameter explanation:
+    * _measurement : it is the project name
+    * asset_name : it is the component name
+    * _field : it is the tagname that we want to plot.
+
+
+.. image:: images/create_dashboard_3.jpg
+    :width: 100%
+
+
+Save Dashboard
+---------------------------
+
+* Click "share" button
+* Click Export tab
+* Click "Save to file" button
+
+.. image:: images/save_dashboard.jpg
+    :width: 100%
+
+
+Import Dashboard
+---------------------------
+* Click "New" dropdown button
+* Click Import
+* Click "Save to file" button
+
+.. image:: images/import_dashboard.jpg
+    :width: 100%
+
+* Upload JSON file from template folder: gemini-user-interface/src/static/grafana_template
+* or copy paste JSON text in the box
+
+.. image:: images/import_dashboard_2.jpg
+    :width: 100%
+
