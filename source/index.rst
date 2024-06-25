@@ -6,16 +6,26 @@
 Welcome to GEMINI's documentation!
 ==============================================
 
-This is auto generated documentation of GEMINI Source Code.
+.. note::
+
+   This project is under active development.
+
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
-   :caption: Table of Content
+    :maxdepth: 1
+    :numbered:
+    :caption: Table of Content
 
 
-   framework
-   model
+    installation
+    login
+    project
+    overview
+    grafana
+    injectivity
+    esp
+    wellintegrity
+    code
 
 
 Indices and tables
