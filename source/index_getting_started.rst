@@ -8,7 +8,6 @@ In this page you can find the links to all pages that give a general overview to
     :maxdepth: 1
     :caption: Links
 
-    basics_installation
-    basics_login
-    basics_main_page
-    basics_projects
+    start_installation
+    start_login
+    start_projects
