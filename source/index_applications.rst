@@ -1,3 +1,5 @@
+.. _applications-section:
+
 GEMINI applications
 ==============================================
 

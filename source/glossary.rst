@@ -1,3 +1,5 @@
+.. _gemini-glossary:
+
 GEMINI glossary
 ===========================
 
