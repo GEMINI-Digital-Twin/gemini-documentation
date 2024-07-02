@@ -1,6 +1,6 @@
 .. _applications-section:
 
-GEMINI applications
+Applications
 ==============================================
 
 Applications are the tools within the GEMINI platform that allow a user to interact with the various models/funtionalities of the system to perform more detailed analyses and visualizations. This page gives an overview of all the applications in the current version of the GEMINI platform.

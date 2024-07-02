@@ -1,6 +1,6 @@
 .. _modules-section:
 
-GEMINI modules
+Modules
 ==============================================
 
 

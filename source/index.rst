@@ -12,19 +12,20 @@ Welcome to GEMINI's technical user manual!
    This project is under active development.
 
 
-This is the main landing page for the technical user manual of the GEMINI digital twin framework for geothermal assets. As the name implies, the technical user manual is aimed at users of the GEMINI framework with a technical understanding of geothermal systems, such as operators and engineers. The manual gives an overview on the structure of the GEMINI platform (:numref:`about-gemini`), a guide on how to start using the platform (:numref:`getting-started`), and an introduction to the main layout and basic functionalities of the system (:numref:`system-basics`). In addition, each individual application or module will have its own step-by-step manual instructing a user on how to use it (:numref:`modules-section` and :numref:`applications-section` respectively). Finally, the glossary (:numref:`gemini-glossary`) gives the definitions of all key terms used throughout this manual and in the platform itself.
+This is the main landing page for the technical user manual of the GEMINI digital twin framework for geothermal assets. As the name implies, the technical user manual is aimed at users of the GEMINI framework with a technical understanding of geothermal systems, such as operators and engineers. The manual gives an overview on the structure of the GEMINI platform (:numref:`about-gemini`), an introduction to getting started with the platform (:numref:`getting-started`), and a guide to setting up project (:numref:`system-setup`). In addition, each individual application or module will have its own step-by-step manual instructing a user on how to use it (:numref:`modules-section` and :numref:`applications-section` respectively). Finally, the glossary (:numref:`gemini-glossary`) gives the definitions of all key terms used throughout this manual and in the platform itself.
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :numbered:
     :caption: Table of Content
 
     index_about_gemini
     index_getting_started
-    index_system_basics
+    index_setup
     index_applications
     index_modules
+    index_other_pages
     glossary
 
 
@@ -34,6 +35,16 @@ This is the main landing page for the technical user manual of the GEMINI digita
    * :ref:`genindex`
    * :ref:`modindex`
    * :ref:`search`
+
+
+Contact
+----------------------------------
+The GEMINI platform and its various functionalities has been jointly developed by TNO, Well Engineering Partners, and Helin.
+
+For technical questions about the platform itself, please contact Ryvo Octaviano from TNO (ryvo.octaviano@tno.nl).
+
+For questions or suggestions about this technical user manual, please contact Jonah Poort from TNO (jonah.poort@tno.nl).
+
 
 Acknowledgements
 ----------------------------------

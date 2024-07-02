@@ -12,4 +12,5 @@ In this page you can find the links to all pages that give a general overview to
 
     start_installation
     start_login
+    start_main_page
     start_projects
