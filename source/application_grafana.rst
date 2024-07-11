@@ -67,6 +67,7 @@ Create Dashboard
 * Select Time Series. There are several chart style e.g. bar chart, gauge, pie chart, etc.
 * Fill Title
 * In box A, fill the query code. It is based on FluxQL syntax. See the example below.
+
 .. code-block::
 
     from(bucket: "gemini-project")
