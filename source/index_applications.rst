@@ -11,6 +11,11 @@ Applications are the tools within the GEMINI platform that allow a user to inter
     :caption: Applications
 
     application_grafana
+    application_production_well_performance
     application_injectivity
+    
+    
+    
+..
     application_esp
     application_wellintegrity
