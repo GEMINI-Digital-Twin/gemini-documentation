@@ -1,14 +1,14 @@
 Projects
 ===========================
-**Note:** Only an administrator can create a project and assign users to it. Once assigned, users can modify the project.
+**Note:** Users can create a project, but only an administrator can delete one. Additionally, an administrator can assign users to an existing project. Once assigned, users can modify the project.
 
 Create New Project
 ---------------------------
-**Steps for Administrators to create a New Project:**
 
-1. Log in as Administrator:
+1. Log in:
 
-   - Navigate to the login page and sign in with your administrator credentials. 
+   - Navigate to the login page and sign in with your credentials. 
+
 
 2. Create a Project Folder:
 
@@ -28,33 +28,31 @@ Create New Project
     .. image:: images/start_project_2.JPG
         :width: 100%
 
-3. Navigate to the Admin Manager page:
+
+**Steps for Administrators to Assign Users to a New Project:**
+
+1. Log in as Administrator:
+
+   - Navigate to the login page and sign in with your administrator credentials. 
+
+
+2. Navigate to the Admin Manager page:
 
    - Click on the user icon at the top right corner and select "Admin Manager". This will direct you to the page where you can manage projects and user access.
 
     .. image:: images/start_project_3.JPG
         :width: 100%
 
-   - In the menu, select "Project" and then click on "Create." 
- 
-    .. image:: images/start_project_4.JPG
-        :width: 100%
-   
-   - Enter the project name created in the previous step, assign specific users or groups to the project, and click "Save."
+   - In the menu, select "Project" and select an existing project name, assign specific users or groups to the project, and click "Save."
  
     .. image:: images/start_project_5.JPG
         :width: 100%
-   
-   - The created project will be listed under the "Project" option.
- 
-    .. image:: images/start_project_7.JPG
-        :width: 100%
-
+    
    - You can find the list of registered users and their groups under the "User" option.
-
 
     .. image:: images/start_project_6.JPG
         :width: 100%
+
 
 
 Open Existing Project
