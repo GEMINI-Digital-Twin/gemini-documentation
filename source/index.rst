@@ -24,8 +24,6 @@ This is the main landing page for the technical user manual of the GEMINI digita
     index_getting_started
     index_setup
     index_applications
-    index_modules
-    index_other_pages
     glossary
 
 

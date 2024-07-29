@@ -30,7 +30,7 @@ Setup Database Connection
 * Fill InfluxDB Details
 
     * Organization: TNO
-    * Token: <create token InfluxDB>
+    * Token: <create token InfluxDB> (Follow the steps below to create a token)
     * Default Bucket: gemini-project
 
 * Click Save & test
@@ -39,12 +39,12 @@ Setup Database Connection
     :width: 100%
 
 * Create Token Influx DB
-* login to http://<yourdomain>:8086
-* Fill username and password
-* Generate API token
-* Click All Access API Token
-* Fill Description, e.g. gemini-token
-* Copy the API token and put in InfluxDB Details
+    * Using your browser, log in to <yourdomain>:8086, where <yourdomain> is the cloud address you use to access Gemini
+    * Fill username and password (same as the Basic Auth Details)
+    * Generate API token
+    * Click All Access API Token
+    * Fill Description, e.g. gemini-token
+    * Copy the API token and put in InfluxDB Details
 
 .. image:: images/database_setup_connection_4.jpg
     :width: 100%
