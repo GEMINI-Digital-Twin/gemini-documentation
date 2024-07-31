@@ -52,5 +52,5 @@ Log Out
 --------------------------------
 To log out, click on the user icon at the top right corner of the page and select the "Log Out" option.
 
-    .. image:: images/start_login_logout.JPG
+    .. image:: images/Start_login_logout.JPG
         :width: 100%
