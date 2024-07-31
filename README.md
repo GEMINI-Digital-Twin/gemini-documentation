@@ -4,6 +4,8 @@ This repository is part of the 'Nieuwe Warmte Nu GEMINI Digital Twin' project.
 
 Web based documentation repository of the GEMINI Digital Twin
 
+Online version: https://gemini-digital-twin-documentation.readthedocs.io/en/latest/
+
 
 ## Bug reports and discussions
 
