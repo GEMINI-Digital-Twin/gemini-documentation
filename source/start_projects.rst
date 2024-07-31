@@ -109,23 +109,23 @@ Delete Project
 
    - Once confirmed, close the project.
 
-    .. image:: images/start_project_14.JPG
+    .. image:: images/Start_project_14.jpg
         :width: 100%
     
 3. Remove Project from Admin Manager:
 
    - Navigate to the Admin Manager page. Under the "Project" option, select the "bin" icon or use the "Delete" option from the dropdown menu ("With Selected" option).
 
-    .. image:: images/start_project_15.JPG
+    .. image:: images/Start_project_15.jpg
         :width: 100%
         
    - Confirm the deletion when prompted.
 
-    .. image:: images/start_project_16.JPG
+    .. image:: images/Start_project_16.jpg
         :width: 100%
 
 
    - A confirmation message will appear once the selected project is deleted successfully.
 
-    .. image:: images/start_project_17.JPG
+    .. image:: images/Start_project_17.jpg
         :width: 100%
