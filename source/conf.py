@@ -1,21 +1,3 @@
-import os
-import sys
-
-import git
-from pathlib import Path
-
-
-def get_gemini_parent_root(path):
-    git_repo = git.Repo(path, search_parent_directories=True)
-    git_root = git_repo.git.rev_parse("--show-toplevel")
-
-    return Path(git_root).parent
-
-
-gemini_root_dir = get_gemini_parent_root(os.getcwd())
-
-sys.path.insert(0, os.path.join(gemini_root_dir, 'gemini-model', 'src'))
-sys.path.insert(0, os.path.join(gemini_root_dir, 'gemini-framework', 'src'))
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -51,4 +33,4 @@ numfig = True
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+html_static_path = ['']

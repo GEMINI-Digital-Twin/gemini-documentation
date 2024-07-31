@@ -11,7 +11,7 @@ Setup Database Connection
 * Click Data Source InfluxDB
 * Click Add New Data Source
 
-.. image:: images/database_setup_connection_1.jpg
+.. image:: images/database_setup_connection_1.JPG
     :width: 100%
 
 * Fill the database name
@@ -19,7 +19,7 @@ Setup Database Connection
 * add URL http://influxdb:8086
 * toggle Basic auth
 
-.. image:: images/database_setup_connection_2.jpg
+.. image:: images/database_setup_connection_2.JPG
     :width: 100%
 
 * Fill Basic Auth Details
@@ -35,7 +35,7 @@ Setup Database Connection
 
 * Click Save & test
 
-.. image:: images/database_setup_connection_3.jpg
+.. image:: images/database_setup_connection_3.JPG
     :width: 100%
 
 * Create Token Influx DB
@@ -46,7 +46,7 @@ Setup Database Connection
     * Fill Description, e.g. gemini-token
     * Copy the API token and put in InfluxDB Details
 
-.. image:: images/database_setup_connection_4.jpg
+.. image:: images/database_setup_connection_4.JPG
     :width: 100%
 
 
@@ -55,18 +55,19 @@ Create Dashboard
 * Click "New" button
 * Click "Add visualization" button
 
-.. image:: images/create_dashboard_1.jpg
+.. image:: images/create_dashboard_1.JPG
     :width: 100%
 
 * Select data source influxdb
 * if you dont see any data source, please follow section Setup Database Connection
 
-.. image:: images/create_dashboard_2.jpg
+.. image:: images/create_dashboard_2.JPG
     :width: 100%
 
 * Select Time Series. There are several chart style e.g. bar chart, gauge, pie chart, etc.
 * Fill Title
 * In box A, fill the query code. It is based on FluxQL syntax. See the example below.
+
 .. code-block::
 
     from(bucket: "gemini-project")
@@ -83,7 +84,7 @@ Create Dashboard
     * _field : it is the tagname that we want to plot.
 
 
-.. image:: images/create_dashboard_3.jpg
+.. image:: images/create_dashboard_3.JPG
     :width: 100%
 
 
@@ -94,7 +95,7 @@ Save Dashboard
 * Click Export tab
 * Click "Save to file" button
 
-.. image:: images/save_dashboard.jpg
+.. image:: images/save_dashboard.JPG
     :width: 100%
 
 
@@ -104,12 +105,12 @@ Import Dashboard
 * Click Import
 * Click "Save to file" button
 
-.. image:: images/import_dashboard.jpg
+.. image:: images/import_dashboard.JPG
     :width: 100%
 
 * Upload JSON file from template folder: gemini-user-interface/src/static/grafana_template
 * or copy paste JSON text in the box
 
-.. image:: images/import_dashboard_2.jpg
+.. image:: images/import_dashboard_2.JPG
     :width: 100%
 

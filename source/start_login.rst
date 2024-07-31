@@ -1,6 +1,6 @@
 Login Page
 ================================
-    .. image:: images/start_login.JPG
+    .. image:: images/Start_login.JPG
         :width: 100%
 
 Sign Up
@@ -18,21 +18,21 @@ Sign Up
 
    - Once logged in, click on the user icon at the top right corner of the page and select the "Add User" option.
 
-    .. image:: images/start_login_signup.JPG
+    .. image:: images/Start_login_signup.JPG
         :width: 100%
 
 3. Create New User:
 
    - You will be directed to the sign up page.
    
-    .. image:: images/start_login_signup_1.JPG
+    .. image:: images/Start_login_signup_1.JPG
         :width: 100%
 
    - Fill in the required information for the new user, such as email address, name, and temporary password (password can be changed later on by the user).
 
    - Click on the "Sign Up" button.
 
-    .. image:: images/start_login_signup_2.JPG
+    .. image:: images/Start_login_signup_2.JPG
         :width: 100%
 
 
@@ -52,5 +52,5 @@ Log Out
 --------------------------------
 To log out, click on the user icon at the top right corner of the page and select the "Log Out" option.
 
-    .. image:: images/start_login_logout.JPG
+    .. image:: images/Start_login_logout.JPG
         :width: 100%

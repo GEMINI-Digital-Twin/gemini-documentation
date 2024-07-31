@@ -7,12 +7,12 @@ This page serves as a guide on how to set up your first project, and include ste
 
 
 Creating a plant in the diagram builder
---------------------------------------
+--------------------------------------------
 
 
 
 Adding asset parameters
---------------------------------------
+--------------------------------------------
 
 
 
@@ -24,9 +24,10 @@ Linking tags to plant assets
 
 
 Viewing plant configuration and parameters
---------------------------------------
+--------------------------------------------
+
 
 
 
 Uploading and viewing documents
---------------------------------------
+--------------------------------------------
