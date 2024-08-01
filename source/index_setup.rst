@@ -8,9 +8,7 @@ This page serves as a guide on how to set up your first project, and include ste
 The first step to set-up your project is to create a new project. In the chapter :ref:`Projects <projects>`, instructions for creating a new project are given. If you do not have a project yet, you may go back to this chapter and follow the instructions.
 
 Creating a plant in the diagram builder
---------------------------------------
 --------------------------------------------
---------------------------------------
 As soon as you have create your project, you can start setting it up. The first thing would be to model the plant geometry.
 
 .. _new-component:
@@ -26,7 +24,7 @@ The diagram builder application allows you to model your plant. For a new projec
 
 .. _add-move-component:
 
-.. figure:: images/diagram_builder_add_move_component.gif
+.. figure:: animations/diagram_builder_add_move_component.gif
     :width: 100%
     :align: center
 
@@ -45,7 +43,6 @@ As soon as you click on a component, it will appear on the top left of the canva
 You then need to connect your components to introduce relations between them and create a linear process for your plant. The connection can be created by clicking and dragging from one asset connection point to another. You can see an example in figure :numref:`connect-components`.
 
 Adding asset parameters
---------------------------------------
 --------------------------------------------
 Now you should have a diagram of your plant. The next step is to add the required parameters to the components. This is possible via the diagram builder application.
 
@@ -65,19 +62,16 @@ For the production well and injection well, the trajectory is required.
 
 
 Linking tags to plant assets
---------------------------------------
+--------------------------------------------
 
 
 
 
 Viewing plant configuration and parameters
---------------------------------------
---------------------------------------
 --------------------------------------------
 
 
 
 
 Uploading and viewing documents
---------------------------------------
 --------------------------------------------
