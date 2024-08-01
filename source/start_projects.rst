@@ -16,18 +16,18 @@ Create New Project
 
    - Once logged in, click on the "File" icon at the top left corner and select "New Project".
 
-    .. image:: images/start_project_0.JPG
+    .. image:: images/Start_project_0.jpg
         :width: 100%
 
    - Enter the name of the project.
 
-    .. image:: images/start_project_1.JPG
+    .. image:: images/Start_project_1.jpg
         :width: 100%
 
         
    - A confirmation message will appear once the project folder is created successfully.
 
-    .. image:: images/start_project_2.JPG
+    .. image:: images/Start_project_2.jpg
         :width: 100%
 
 
@@ -42,17 +42,17 @@ Create New Project
 
    - Click on the user icon at the top right corner and select "Admin Manager". This will direct you to the page where you can manage projects and user access.
 
-    .. image:: images/start_project_3.JPG
+    .. image:: images/Start_project_3.jpg
         :width: 100%
 
    - In the menu, select "Project" and select an existing project name, assign specific users or groups to the project, and click "Save."
  
-    .. image:: images/start_project_5.JPG
+    .. image:: images/Start_project_5.jpg
         :width: 100%
     
    - You can find the list of registered users and their groups under the "User" option.
 
-    .. image:: images/start_project_6.JPG
+    .. image:: images/Start_project_6.jpg
         :width: 100%
 
 
@@ -68,22 +68,22 @@ Open Existing Project
 
    - Once logged in, click on the "File" icon at the top left corner and select "Open Project".
 
-    .. image:: images/start_project_8.JPG
+    .. image:: images/Start_project_8.jpg
         :width: 100%
 
    - Find the name of the projects that are assigned to your account, select the desired project and click "Open".
 
-    .. image:: images/start_project_9.JPG
+    .. image:: images/Start_project_9.jpg
         :width: 100%
         
    - A confirmation message will appear once the selected project is loaded successfully.
 
-    .. image:: images/start_project_10.JPG
+    .. image:: images/Start_project_10.jpg
         :width: 100%
         
    - Then you will be directed to the main page of the project.
 
-    .. image:: images/start_project_11.JPG
+    .. image:: images/Start_project_11.jpg
         :width: 100%
 
 Delete Project
@@ -101,33 +101,33 @@ Delete Project
 
    - Once logged in, open the project (following the steps in the previous section). Click on the "File" icon at the top left corner and select "Delete Project".
 
-    .. image:: images/start_project_12.JPG
+    .. image:: images/Start_project_12.jpg
         :width: 100%
 
    - Confirm the deletion when prompted.
 
-    .. image:: images/start_project_13.JPG
+    .. image:: images/Start_project_13.jpg
         :width: 100%
 
    - Once confirmed, close the project.
 
-    .. image:: images/start_project_14.JPG
+    .. image:: images/Start_project_14.jpg
         :width: 100%
     
 3. Remove Project from Admin Manager:
 
    - Navigate to the Admin Manager page. Under the "Project" option, select the "bin" icon or use the "Delete" option from the dropdown menu ("With Selected" option).
 
-    .. image:: images/start_project_15.JPG
+    .. image:: images/Start_project_15.jpg
         :width: 100%
         
    - Confirm the deletion when prompted.
 
-    .. image:: images/start_project_16.JPG
+    .. image:: images/Start_project_16.jpg
         :width: 100%
 
 
    - A confirmation message will appear once the selected project is deleted successfully.
 
-    .. image:: images/start_project_17.JPG
+    .. image:: images/Start_project_17.jpg
         :width: 100%

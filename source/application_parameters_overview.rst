@@ -7,7 +7,7 @@ Description
 This application gives an overview of all the parameters and tagnames that describe the assets of the geothermal plant. The application allows to quickly check and modify the parameters of any asset in the plant model.
 
 Overview of parameters and tagnames
----------------------------
+-------------------------------------
 
 The user can select the asset from a dropdown list. The assets included in the list are obtained for the plant diagram that is created for the current project. If the current project has not a diagram yet, then the dropdown list should be empty.
 
@@ -18,10 +18,12 @@ As soon as the user selects the asset of interest the tables are updated automat
 
 .. image:: images/parameters_overview_parameters_table.png
     :width: 100%
+
 In the picture above you can observe an example of the asset parameters for an ESP. The table shows the parameter name and value. The parameter values are given in editable cells. This means that the user can simply select the current value and fill in the new value. For fields like **esp_head_coeff** or **esp_power_coeff** where an array of values is required, the user should separate the values with semicolons (;).
 
 .. image:: images/parameters_overview_tagnames_table.png
     :width: 100%
+
 In the picture above you can observe an example of the asset tagnames for an ESP. The table shows the tagname name, value and if each tagname value was measured or calculated. Similarily to the parameter table, the tagname value and the Measured/Calculated field can be modified by the user.
 
 Modify parameters

@@ -7,7 +7,7 @@ Description
 This application provides the following features as the monitoring tools for production in geothermal reservoir.
 
 Inflow Performance Relationship (IPR)
----------------------------
+--------------------------------------
 The Inflow Performance Relationship (IPR) describes the well flowing bottomhole pressure (:math:`P_{wf}`) as a function of the measured production rate (:math:`Q`). This relationship is crucial for designing optimal production strategies and managing reservoir performance. The bottomhole pressure (:math:`P_{wf}`) is defined as the pressure between the average reservoir pressure (:math:`P_{res}`) and atmospheric pressure. A typical IPR graph is illustrated below:
 
         .. image:: images/application_production_IPR.JPG
@@ -30,7 +30,7 @@ where:
 - :math:`K`   is the productivity index
 
 Vertical Lift Performance (VLP)
----------------------------
+--------------------------------
 The Vertical Lift Performance (VLP) describes the bottomhole pressure as a function of flowrate in the tubing. The VLP depends on various factors including well depth, well trajectory, tubing size, water cut, gas-to-water-ratio (GWR), and PVT fluid properties. The boundary condition, if there is no Electrical Submiresible Pump (ESP) is the wellhead pressure (:math:`P_{wh}`). If an ESP is installed, the intake pressure of the ESP is used. 
 
 To calculate the pressure drop along the tubing, two correlations are used based on fluid phase: single-phase or two-phase. 

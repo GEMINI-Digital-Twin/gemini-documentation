@@ -2,11 +2,14 @@
 
 Set-up
 ==============================================
+
 This page serves as a guide on how to set up your first project, and include step-by-step instructions on how to create a representation of your physical system in the diagram builder, set asset parameters, and link to the corresponding tags in the plant database.
 
 The first step to set-up your project is to create a new project. In the chapter :ref:`Projects <projects>`, instructions for creating a new project are given. If you do not have a project yet, you may go back to this chapter and follow the instructions.
 
 Creating a plant in the diagram builder
+--------------------------------------
+--------------------------------------------
 --------------------------------------
 As soon as you have create your project, you can start setting it up. The first thing would be to model the plant geometry.
 
@@ -43,6 +46,7 @@ You then need to connect your components to introduce relations between them and
 
 Adding asset parameters
 --------------------------------------
+--------------------------------------------
 Now you should have a diagram of your plant. The next step is to add the required parameters to the components. This is possible via the diagram builder application.
 
 .. _edit-component-parameters:
@@ -68,8 +72,12 @@ Linking tags to plant assets
 
 Viewing plant configuration and parameters
 --------------------------------------
+--------------------------------------
+--------------------------------------------
+
 
 
 
 Uploading and viewing documents
 --------------------------------------
+--------------------------------------------

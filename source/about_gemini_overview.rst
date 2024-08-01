@@ -63,12 +63,12 @@ The database layer contains a number of databases: a plant database from which r
 
 
 Graphical User Interface
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The GUI (Graphical User Interface) is the interactive visual layer built "on top of" the GEMINI platform. Through the GUI a user can interact with the various functionalities, modules, and applications in the framework.
 
 
 Internal vs. external layers
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Within the GEMINI platform there is a distinction made between *internal* and *external* layers. The main difference is in whether something is general-purpose or plant/asset-specific. This is also related to the open-source release of the platform, since only internal components will be part of the open-source release. Internal layers are denoted as blocks with solid outlines in :numref:`fig-func-architecture`, while external layers have dashed outlines. Internal layers include the GEMINI framework, the model layer, module layer, and applications layer, while the database, project, and GUI are all external layers. Technically, the GUI can be included in the internal layers, as it is not necessarily plant/asset-specific, but the aim of GEMINI is to allow any interested party to build their own visualization on top of the main platform. 
 
 
