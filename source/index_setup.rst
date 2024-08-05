@@ -112,4 +112,14 @@ As you can observe in the figure :numref:`plant-configuration` above, a save but
 
 Uploading and viewing documents
 --------------------------------------------
+A functionality for uploading and viewing reports allows the user to create a library of reports in one location. You can upload your reports in pdf. The documents are then stored in your account.
 
+.. _report-upload-view:
+
+.. figure:: animations/info_report_upload_view.gif
+    :width: 100%
+    :align: center
+
+    Upload and view pdf report from the *REPORT* window.
+
+To upload a report you first need to select the *REPORT* window from *INFO*. Then, you need to select the document from your local computer and click upload. Now your report is available to view from the dropdown menu on the top of your window. A delete button is also available for removing documents that are not useful anymore. You can see the process in figure :numref:`report-upload-view` above.
