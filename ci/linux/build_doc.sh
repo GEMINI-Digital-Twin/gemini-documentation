@@ -1,2 +1,2 @@
 RMDIR /s /q build
-poetry run sphinx-build -M html ./source ./build/html -W 
+poetry run sphinx-build -M html ./source ./build -W 
