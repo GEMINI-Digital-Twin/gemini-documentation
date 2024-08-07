@@ -1,3 +1,5 @@
+.. _projects:
+
 Projects
 ===========================
 **Note:** Users can create a project, but only an administrator can delete one. Additionally, an administrator can assign users to an existing project. Once assigned, users can modify the project.
