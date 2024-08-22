@@ -1,17 +1,22 @@
 Login Page
 ================================
+
+The login page can be accessed via web browser using url: http://localhost:5101/. Note: this url is only for local installation. For server implementation, you need to access the IP address or DNS of the machine.
+
     .. image:: images/Start_login.JPG
         :width: 100%
 
 Sign Up
 --------------------------------
-**Note:** The sign-up process must be completed by an administrator. Users cannot self-register and will need to contact an administrator to create their account.
+.. note::
+    The sign-up process must be completed by an administrator. Users cannot self-register and will need to contact an administrator to create their account.
 
 **Steps for Administrators to Sign Up a New User:**
 
 1. Log in as Administrator:
 
    - Navigate to the login page and sign in using your administrator credentials.
+   - The administrator credentials can be found in :numref:`installation`
 
 
 2. Access User Management:

@@ -3,14 +3,14 @@
 Getting started
 ==============================================
 
-In this page you can find the links to all pages that give a general overview to the GEMINI project, structure, and open-source strategy.
+In this page you can find the instructions how to install GEMINI in cloud or on-premises, user management, project management and description of the home page.
 
 
 .. toctree::
     :maxdepth: 1
-    :caption: Links
+    :caption: Pages
 
     start_installation
     start_login
-    start_main_page
     start_projects
+    start_main_page

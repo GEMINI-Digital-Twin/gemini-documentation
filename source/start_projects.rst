@@ -2,7 +2,8 @@
 
 Projects
 ===========================
-**Note:** Users can create a project, but only an administrator can delete one. Additionally, an administrator can assign users to an existing project. Once assigned, users can modify the project.
+.. note::
+    Users can create a project, but only an administrator can delete one. Additionally, an administrator can assign users to an existing project. Once assigned, users can modify the project.
 
 Create New Project
 ---------------------------
@@ -31,7 +32,10 @@ Create New Project
         :width: 100%
 
 
-**Steps for Administrators to Assign Users to a New Project:**
+Project Group
+---------------------------
+
+**Steps for Administrators to Assign Users to a Project using Group:**
 
 1. Log in as Administrator:
 
@@ -89,7 +93,8 @@ Open Existing Project
 Delete Project
 ---------------------------
 
-**Note:** Only an administrator can delete a project.
+.. note::
+    Only an administrator can delete a project.
 
 **Steps for Administrators to delete a Project:**
 
@@ -112,22 +117,4 @@ Delete Project
    - Once confirmed, close the project.
 
     .. image:: images/Start_project_14.jpg
-        :width: 100%
-    
-3. Remove Project from Admin Manager:
-
-   - Navigate to the Admin Manager page. Under the "Project" option, select the "bin" icon or use the "Delete" option from the dropdown menu ("With Selected" option).
-
-    .. image:: images/Start_project_15.jpg
-        :width: 100%
-        
-   - Confirm the deletion when prompted.
-
-    .. image:: images/Start_project_16.jpg
-        :width: 100%
-
-
-   - A confirmation message will appear once the selected project is deleted successfully.
-
-    .. image:: images/Start_project_17.jpg
         :width: 100%

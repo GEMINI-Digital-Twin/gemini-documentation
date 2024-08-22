@@ -1,6 +1,8 @@
 Main Page Overview
 ===========================
 
+The main page only can be accessed after opening a project.
+
 .. image:: images/Start_project_11.jpg
     :width: 100%
 
