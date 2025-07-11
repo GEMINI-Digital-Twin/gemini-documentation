@@ -17,4 +17,5 @@ Applications are the tools within the GEMINI platform that allow a user to inter
     application_esp
     application_well_schematics
     application_wellintegrity
-    
+    application_rag
+    application_report_generator
